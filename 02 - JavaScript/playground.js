@@ -16,5 +16,5 @@ function verificaPrimo(num) {
 if (verificaPrimo(num)) {
   console.log("O número", num, "é PRIMO:.")
 } else {
-  console.log("O número", num, "Não é PRIMO:.")
+  console.log("O número", num, "Não é PRIMOXXX:.")
 }
